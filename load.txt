@@ -1,1 +1,1 @@
-in app in controller user supperlier and sales have to be insert 
+in app in controller account and base controller have to be insert 
