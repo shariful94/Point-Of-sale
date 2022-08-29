@@ -1,1 +1,1 @@
-in app in controller account and base controller have to be insert 
+pos product purchase controller have to add
