@@ -1,1 +1,1 @@
-pos product purchase controller have to add
+register sales supplier controller have to add
